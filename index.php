@@ -31,6 +31,7 @@ URL: https://github.com/mrsteveheyes/Sandbox/
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="assets/css/style.css?v=1">
+<link rel="stylesheet" href="assets/css/grid.css?v=1">
 
 <!-- JavaScript at bottom except for Modernizr -->
 <script src="js/libs/modernizr-1.7.min.js"></script>
@@ -65,9 +66,22 @@ URL: https://github.com/mrsteveheyes/Sandbox/
 <h1>320 and up</h1>
 </header>
 
-<div class="content clearfix">
+<div class="content clearfix container_16">
 
 <div role="main">
+	
+	<h2>This is a second header</h2>
+	
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	
+	<form action="">
+		<fieldset>
+			<label for="name">Name</label>
+			<input name="name" type="text" />
+			<input type="submit" />
+		</fieldset>
+	</form>
+	
 </div>
 
 <div role="complementary">
