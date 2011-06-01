@@ -2,7 +2,7 @@
 
 <!-- 
 Sandbox
-Extends: 320 and Up - http://stuffandnonsense.co.uk/projects/320andup 
+Extends: 320 and Up - http://stuffandnonsense.co.uk/projects/320andup & 960 Fluid  - http://www.designinfluences.com/fluid960gs/
 Author: Steve Heyes
 Version: 0.1b
 URL: https://github.com/mrsteveheyes/Sandbox/
