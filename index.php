@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 
 <!-- 
-320 and Up boilerplate extension
-Author: Andy Clarke
-Version: 0.9b
-URL: http://stuffandnonsense.co.uk/projects/320andup 
+Sandbox
+Extends: 320 and Up - http://stuffandnonsense.co.uk/projects/320andup 
+Author: Steve Heyes
+Version: 0.1b
+URL: https://github.com/mrsteveheyes/Sandbox/
 -->
 
 <!--[if IEMobile 7 ]><html class="no-js iem7" manifest="default.appcache?v=1"><![endif]-->
@@ -29,7 +30,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 <link rel="stylesheet" media="handheld" href="css/handheld.css?v=1">  -->
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="css/style.css?v=1">
+<link rel="stylesheet" href="assets/css/style.css?v=1">
 
 <!-- JavaScript at bottom except for Modernizr -->
 <script src="js/libs/modernizr-1.7.min.js"></script>
@@ -81,13 +82,13 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
 <script>window.jQuery || document.write('<script src="js/libs/jquery-1.5.1.min.js">\x3C/script>')</script>
 <!-- Scripts -->
-<script src="js/plugins.js"></script>
-<script src="js/script.js"></script>
+<script src="assets/js/plugins.js"></script>
+<script src="assets/js/script.js"></script>
 
 <!--[if (lt IE 9) & (!IEMobile)]>
-<script src="js/libs/DOMAssistantCompressed-2.8.js"></script>
-<script src="js/libs/selectivizr-1.0.1.js"></script>
-<script src="js/libs/respond.min.js"></script>
+<script src="assets/js/libs/DOMAssistantCompressed-2.8.js"></script>
+<script src="assets/js/libs/selectivizr-1.0.1.js"></script>
+<script src="assets/js/libs/respond.min.js"></script>
 <![endif]-->
 
 <!-- http://t.co/HZe9oJ4 -->
