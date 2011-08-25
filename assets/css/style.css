@@ -1,10 +1,13 @@
 /* _________________________________________________
 
-320 and Up boilerplate extension
-
-Author: Andy Clarke
-Version: 0.9b
-URL: http://stuffandnonsense.co.uk/projects/320andup/
+SANDBOX
+____________________________________________________
+Extends:	320 and Up - http://stuffandnonsense.co.uk/projects/320andup
+			960 Fluid - http://www.designinfluences.com/fluid960gs/
+____________________________________________________
+Author: Steve Heyes
+Version: 0.4
+URL: https://github.com/mrsteveheyes/Sandbox
 _____________________________________________________
 
 1.ROOT
@@ -577,23 +580,23 @@ page-break-after : avoid; }
 /* @group 18.2 480px __________________________________________________________________________________________________________ */
 @media only screen and (min-width: 480px) {
 
-/* 1.ROOT */
-/* 2.HEADINGS */
-/* 3.TYPOGRAPHY */
-/* 4.LINKS */
-/* 5.FIGURES & IMAGES */
-/* 6.TABLES */
-/* 7.FORMS */
-/* 8.BANNER */
-/* 9.NAVIGATION */
-/* 10.CONTENT */
-/* 11.MAIN */
-/* 12.COMPLIMENTARY */
-/* 13.CONTENTINFO */
-/* 14.GLOBAL OBJECTS */
-/* 15.VENDOR-SPECIFIC */
-/* 16.TEMPLATE SPECIFICS */
-/* 17.MODERNIZR */
+/* @group 1.ROOT */ /* @end */
+/* @group 1.HEADINGS */ /* @end */
+/* @group 3.TYPOGRAPHY */ /* @end */
+/* @group 4.LINKS */ /* @end */
+/* @group 5.FIGURES & IMAGES */ /* @end */
+/* @group 6.TABLES */ /* @end */
+/* @group 7.FORMS */ /* @end */
+/* @group 8.BANNER */ /* @end */
+/* @group 9.NAVIGATION */ /* @end */
+/* @group 10.CONTENT */ /* @end */
+/* @group 11.MAIN */ /* @end */
+/* @group 12.COMPLIMENTARY */ /* @end */
+/* @group 13.CONTENTINFO */ /* @end */
+/* @group 14.GLOBAL OBJECTS */ /* @end */
+/* @group 15.VENDOR-SPECIFIC */ /* @end */
+/* @group 16.TEMPLATE SPECIFICS */ /* @end */
+/* @group 17.MODERNIZR */ /* @end */
 
 }/*/mediaquery*/
 
@@ -602,25 +605,23 @@ page-break-after : avoid; }
 /* @group 18.3 768px __________________________________________________________________________________________________________ */
 @media only screen and (min-width: 768px) {
 
-/* 1.ROOT */
-
-/* 1.ROOT */
-/* 2.HEADINGS */
-/* 3.TYPOGRAPHY */
-/* 4.LINKS */
-/* 5.FIGURES & IMAGES */
-/* 6.TABLES */
-/* 7.FORMS */
-/* 8.BANNER */
-/* 9.NAVIGATION */
-/* 10.CONTENT */
-/* 11.MAIN */
-/* 12.COMPLIMENTARY */
-/* 13.CONTENTINFO */
-/* 14.GLOBAL OBJECTS */
-/* 15.VENDOR-SPECIFIC */
-/* 16.TEMPLATE SPECIFICS */
-/* 17.MODERNIZR */
+/* @group 1.ROOT */ /* @end */
+/* @group 1.HEADINGS */ /* @end */
+/* @group 3.TYPOGRAPHY */ /* @end */
+/* @group 4.LINKS */ /* @end */
+/* @group 5.FIGURES & IMAGES */ /* @end */
+/* @group 6.TABLES */ /* @end */
+/* @group 7.FORMS */ /* @end */
+/* @group 8.BANNER */ /* @end */
+/* @group 9.NAVIGATION */ /* @end */
+/* @group 10.CONTENT */ /* @end */
+/* @group 11.MAIN */ /* @end */
+/* @group 12.COMPLIMENTARY */ /* @end */
+/* @group 13.CONTENTINFO */ /* @end */
+/* @group 14.GLOBAL OBJECTS */ /* @end */
+/* @group 15.VENDOR-SPECIFIC */ /* @end */
+/* @group 16.TEMPLATE SPECIFICS */ /* @end */
+/* @group 17.MODERNIZR */ /* @end */
 
 }/*/mediaquery*/
 
@@ -629,23 +630,23 @@ page-break-after : avoid; }
 /* @group 18.4 992px __________________________________________________________________________________________________________ */
 @media only screen and (min-width: 992px) {
 
-/* 1.ROOT */
-/* 2.HEADINGS */
-/* 3.TYPOGRAPHY */
-/* 4.LINKS */
-/* 5.FIGURES & IMAGES */
-/* 6.TABLES */
-/* 7.FORMS */
-/* 8.BANNER */
-/* 9.NAVIGATION */
-/* 10.CONTENT */
-/* 11.MAIN */
-/* 12.COMPLIMENTARY */
-/* 13.CONTENTINFO */
-/* 14.GLOBAL OBJECTS */
-/* 15.VENDOR-SPECIFIC */
-/* 16.TEMPLATE SPECIFICS */
-/* 17.MODERNIZR */
+/* @group 1.ROOT */ /* @end */
+/* @group 1.HEADINGS */ /* @end */
+/* @group 3.TYPOGRAPHY */ /* @end */
+/* @group 4.LINKS */ /* @end */
+/* @group 5.FIGURES & IMAGES */ /* @end */
+/* @group 6.TABLES */ /* @end */
+/* @group 7.FORMS */ /* @end */
+/* @group 8.BANNER */ /* @end */
+/* @group 9.NAVIGATION */ /* @end */
+/* @group 10.CONTENT */ /* @end */
+/* @group 11.MAIN */ /* @end */
+/* @group 12.COMPLIMENTARY */ /* @end */
+/* @group 13.CONTENTINFO */ /* @end */
+/* @group 14.GLOBAL OBJECTS */ /* @end */
+/* @group 15.VENDOR-SPECIFIC */ /* @end */
+/* @group 16.TEMPLATE SPECIFICS */ /* @end */
+/* @group 17.MODERNIZR */ /* @end */
 
 }/*/mediaquery*/
 
@@ -654,23 +655,23 @@ page-break-after : avoid; }
 /* @group 18.5 1382px __________________________________________________________________________________________________________ */
 @media only screen and (min-width: 1382px) {
 
-/* 1.ROOT */
-/* 2.HEADINGS */
-/* 3.TYPOGRAPHY */
-/* 4.LINKS */
-/* 5.FIGURES & IMAGES */
-/* 6.TABLES */
-/* 7.FORMS */
-/* 8.BANNER */
-/* 9.NAVIGATION */
-/* 10.CONTENT */
-/* 11.MAIN */
-/* 12.COMPLIMENTARY */
-/* 13.CONTENTINFO */
-/* 14.GLOBAL OBJECTS */
-/* 15.VENDOR-SPECIFIC */
-/* 16.TEMPLATE SPECIFICS */
-/* 17.MODERNIZR */
+/* @group 1.ROOT */ /* @end */
+/* @group 1.HEADINGS */ /* @end */
+/* @group 3.TYPOGRAPHY */ /* @end */
+/* @group 4.LINKS */ /* @end */
+/* @group 5.FIGURES & IMAGES */ /* @end */
+/* @group 6.TABLES */ /* @end */
+/* @group 7.FORMS */ /* @end */
+/* @group 8.BANNER */ /* @end */
+/* @group 9.NAVIGATION */ /* @end */
+/* @group 10.CONTENT */ /* @end */
+/* @group 11.MAIN */ /* @end */
+/* @group 12.COMPLIMENTARY */ /* @end */
+/* @group 13.CONTENTINFO */ /* @end */
+/* @group 14.GLOBAL OBJECTS */ /* @end */
+/* @group 15.VENDOR-SPECIFIC */ /* @end */
+/* @group 16.TEMPLATE SPECIFICS */ /* @end */
+/* @group 17.MODERNIZR */ /* @end */
 
 }/*/mediaquery*/
 
@@ -679,23 +680,23 @@ page-break-after : avoid; }
 /* @group 18.6 2x __________________________________________________________________________________________________________ */
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
 
-/* 1.ROOT */
-/* 2.HEADINGS */
-/* 3.TYPOGRAPHY */
-/* 4.LINKS */
-/* 5.FIGURES & IMAGES */
-/* 6.TABLES */
-/* 7.FORMS */
-/* 8.BANNER */
-/* 9.NAVIGATION */
-/* 10.CONTENT */
-/* 11.MAIN */
-/* 12.COMPLIMENTARY */
-/* 13.CONTENTINFO */
-/* 14.GLOBAL OBJECTS */
-/* 15.VENDOR-SPECIFIC */
-/* 16.TEMPLATE SPECIFICS */
-/* 17.MODERNIZR */
+/* @group 1.ROOT */ /* @end */
+/* @group 1.HEADINGS */ /* @end */
+/* @group 3.TYPOGRAPHY */ /* @end */
+/* @group 4.LINKS */ /* @end */
+/* @group 5.FIGURES & IMAGES */ /* @end */
+/* @group 6.TABLES */ /* @end */
+/* @group 7.FORMS */ /* @end */
+/* @group 8.BANNER */ /* @end */
+/* @group 9.NAVIGATION */ /* @end */
+/* @group 10.CONTENT */ /* @end */
+/* @group 11.MAIN */ /* @end */
+/* @group 12.COMPLIMENTARY */ /* @end */
+/* @group 13.CONTENTINFO */ /* @end */
+/* @group 14.GLOBAL OBJECTS */ /* @end */
+/* @group 15.VENDOR-SPECIFIC */ /* @end */
+/* @group 16.TEMPLATE SPECIFICS */ /* @end */
+/* @group 17.MODERNIZR */ /* @end */
 
 }/*/mediaquery*/
 
@@ -717,4 +718,6 @@ http://camendesign.com/design/
 http://yui.yahooapis.com/2.8.1/build/base/base.css
 http://webaim.org/techniques/css/invisiblecontent/
 http://drupal.org/node/897638
+http://stuffandnonsense.co.uk/projects/320andup
+http://www.designinfluences.com/fluid960gs/
 */
