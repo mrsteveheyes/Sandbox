@@ -1,10 +1,10 @@
 # SANDBOX
 ____________________________________________________
-
-Extends:	320 and Up - http://stuffandnonsense.co.uk/projects/320andup
-			960 Fluid - http://www.designinfluences.com/fluid960gs/
-____________________________________________________
 Author: Steve Heyes
-Version: 0.4
+Version: 0.5
 URL: https://github.com/mrsteveheyes/Sandbox
+____________________________________________________
+Extends:	320 and Up - http://stuffandnonsense.co.uk/projects/320andup
+		Bootstrap - http://twitter.github.com/bootstrap/
 _____________________________________________________
+See Twitters Bootstrap Mixins for all the LESS functions available.
